@@ -1,0 +1,9 @@
+div {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blueviolet;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+}
+div h2, div p{
+    color: aliceblue;
+}
